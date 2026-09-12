@@ -1,4 +1,4 @@
-# Hey there! 👋 I'm Aadi Singh
+# Hey there!  👋 I'm Aadi Singh
 
 **Building AI solutions | Learning ML & LLMs | Passionate about Data & Code**
 
